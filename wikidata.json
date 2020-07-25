@@ -459,12 +459,12 @@
       "label": "Francisco de Aguilar"
     },
     "start": {
-      "value": "1855-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1855-10-18T00:00:00Z",
+      "precision": "11"
     },
     "end": {
-      "value": "1855-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1855-11-08T00:00:00Z",
+      "precision": "11"
     },
     "statement": "Q887849$23ff046f-c096-4d77-9646-6c822ac5186f"
   },
